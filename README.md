@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/realerdemdoruk" target="blank"><img src="https://img.shields.io/twitter/follow/realerdemdoruk?logo=twitter&style=for-the-badge" alt="realerdemdoruk" /></a> </p>
+
 
 - 🌱 I’m currently learning **React Native**
 
