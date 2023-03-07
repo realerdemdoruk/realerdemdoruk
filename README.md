@@ -8,6 +8,7 @@
 
 
 - 🌱 I’m currently learning **Next.js**
+- 👨‍💻 All of my projects are available at www.erdemdoruk.me
 
 - 📫 How to reach me **erdemdoruk3@gmail.com**
 
